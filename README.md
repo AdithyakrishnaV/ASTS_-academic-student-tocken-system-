@@ -1,3 +1,5 @@
+This shows an example of usage of the protocol build in hackathon By: Team: Idukki Gold based on academic and cocurricular token distribution
+
 Vedio link:
 [![Watch the video](https://user-images.githubusercontent.com/84318379/209913362-100d65da-6c0a-4f9c-8e85-15a439494c91.png)](https://www.youtube.com/watch?v=IGI4RA6TRdQ)
 
